@@ -871,9 +871,9 @@ Run the test suite using the following command:
 ---
 ##  Project Roadmap
 
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
+- [X] **`Task 1`**: <strike>Implement Sinhala Voice detection.</strike>
+- [X] **`Task 2`**: <strike>Implement braille predictor.</strike>
+- [x] **`Task 3`**: <strike>Implement voice based navigation</strike>
 
 ---
 
